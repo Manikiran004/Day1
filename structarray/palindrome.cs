@@ -18,7 +18,7 @@ namespace structarray
             }
             
         }
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             string s = Console.ReadLine();
             if (palin(s,0,s.Length-1))
