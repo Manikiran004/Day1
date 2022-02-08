@@ -4,17 +4,28 @@ namespace Garbage
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
-            Console.WriteLine("the generation are " + GC.GetTotalMemory(false));
-            Program p = new Program();
-            Console.WriteLine("the generation are " + GC.MaxGeneration);
-            Console.WriteLine("the generation are " + GC.GetGeneration(p));
-            Console.WriteLine("the generation are " + GC.GetTotalMemory(false));
+            Console.WriteLine("Enter first number");
+            int n1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter second number");
+            int n2 = Convert.ToInt32(Console.ReadLine());
+            if(n1==0 || n2 == 0)
+            {
+                if (n1 == 0)
+                {
+                    Console.WriteLine("Entered 0 as first number");
+                }
+                else
+                {
+                    Console.WriteLine("Entered 0 as second number");
+                }
 
-
-            GC.Collect();
-            Console.WriteLine("GC in generation 0 {0}", GC.CollectionCount(0));
+            }
+            else
+            {
+                Console.WriteLine("Division of two numbers is " + (n1 / n2));
+            }
         }
     }
 }
