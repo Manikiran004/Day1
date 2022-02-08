@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Git\Garbage\bin\Debug\netcoreapp3.1\Garbage.exe
+C:\Users\Dell\Desktop\Git\Garbage\bin\Debug\netcoreapp3.1\Garbage.deps.json
+C:\Users\Dell\Desktop\Git\Garbage\bin\Debug\netcoreapp3.1\Garbage.runtimeconfig.json
+C:\Users\Dell\Desktop\Git\Garbage\bin\Debug\netcoreapp3.1\Garbage.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Git\Garbage\bin\Debug\netcoreapp3.1\Garbage.dll
+C:\Users\Dell\Desktop\Git\Garbage\bin\Debug\netcoreapp3.1\Garbage.pdb
+C:\Users\Dell\Desktop\Git\Garbage\obj\Debug\netcoreapp3.1\Garbage.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Git\Garbage\obj\Debug\netcoreapp3.1\Garbage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Git\Garbage\obj\Debug\netcoreapp3.1\Garbage.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Git\Garbage\obj\Debug\netcoreapp3.1\Garbage.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Git\Garbage\obj\Debug\netcoreapp3.1\Garbage.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Git\Garbage\obj\Debug\netcoreapp3.1\Garbage.dll
+C:\Users\Dell\Desktop\Git\Garbage\obj\Debug\netcoreapp3.1\Garbage.pdb
+C:\Users\Dell\Desktop\Git\Garbage\obj\Debug\netcoreapp3.1\Garbage.genruntimeconfig.cache
