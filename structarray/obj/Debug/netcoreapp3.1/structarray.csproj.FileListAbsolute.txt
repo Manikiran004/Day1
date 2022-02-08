@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Git\structarray\bin\Debug\netcoreapp3.1\structarray.exe
+C:\Users\Dell\Desktop\Git\structarray\bin\Debug\netcoreapp3.1\structarray.deps.json
+C:\Users\Dell\Desktop\Git\structarray\bin\Debug\netcoreapp3.1\structarray.runtimeconfig.json
+C:\Users\Dell\Desktop\Git\structarray\bin\Debug\netcoreapp3.1\structarray.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Git\structarray\bin\Debug\netcoreapp3.1\structarray.dll
+C:\Users\Dell\Desktop\Git\structarray\bin\Debug\netcoreapp3.1\structarray.pdb
+C:\Users\Dell\Desktop\Git\structarray\obj\Debug\netcoreapp3.1\structarray.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Git\structarray\obj\Debug\netcoreapp3.1\structarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Git\structarray\obj\Debug\netcoreapp3.1\structarray.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Git\structarray\obj\Debug\netcoreapp3.1\structarray.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Git\structarray\obj\Debug\netcoreapp3.1\structarray.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Git\structarray\obj\Debug\netcoreapp3.1\structarray.dll
+C:\Users\Dell\Desktop\Git\structarray\obj\Debug\netcoreapp3.1\structarray.pdb
+C:\Users\Dell\Desktop\Git\structarray\obj\Debug\netcoreapp3.1\structarray.genruntimeconfig.cache
