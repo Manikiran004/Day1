@@ -6,7 +6,7 @@ namespace Collections
 {
     class dict
     {
-        static void Main(string[] args)
+        static void Mai3n(string[] args)
         {
             string s = Console.ReadLine();
             Dictionary<char, int> d = new Dictionary<char, int>();
