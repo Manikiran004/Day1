@@ -10,7 +10,7 @@ namespace Collections
     {
        
 
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             List<string> l = new List<string>();
             List<string> l1 = new List<string>();
