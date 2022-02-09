@@ -5,7 +5,7 @@ namespace Collections
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Dictionary<int, int> d = new Dictionary<int, int>();
             int[] a = { 1, 2, 1, 2, 3, 4, 1, 2 };
