@@ -5,7 +5,8 @@ using System.Text;
 
 namespace Collections
 {
-    public class Person
+
+    public class Person1
     {
         public string Name;
         public int Age;
@@ -16,13 +17,12 @@ namespace Collections
             return Name + " - " + Age;
         }
     }
-    class listex
+    class queueemp
     {
-        static void Main7(string[] args)
+        static void Main(string[] args)
         {
-
-            ArrayList list = new ArrayList();
-            Person[] p = new Person[3];
+            Queue q= new Queue();
+            Person1[] p = new Person1[3];
 
             int total = 3;
             for (int i = 0; i < total; i++)
@@ -30,14 +30,14 @@ namespace Collections
                 string name = Console.ReadLine();
                 int age = int.Parse(Console.ReadLine());
 
-                p[i] = new Person();
+                p[i] = new Person1();
                 p[i].Name = name;
                 p[i].Age = age;
-                list.Add(p[i]);
-                
+                q.Enqueue(p[i]);
+
             }
 
-            foreach (Person pe in list)
+            foreach (Person1 pe in q)
             {
                 Console.WriteLine(pe.ToString());
             }
