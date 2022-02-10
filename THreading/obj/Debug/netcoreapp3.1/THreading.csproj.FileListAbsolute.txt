@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Git\THreading\bin\Debug\netcoreapp3.1\THreading.exe
+C:\Users\Dell\Desktop\Git\THreading\bin\Debug\netcoreapp3.1\THreading.deps.json
+C:\Users\Dell\Desktop\Git\THreading\bin\Debug\netcoreapp3.1\THreading.runtimeconfig.json
+C:\Users\Dell\Desktop\Git\THreading\bin\Debug\netcoreapp3.1\THreading.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Git\THreading\bin\Debug\netcoreapp3.1\THreading.dll
+C:\Users\Dell\Desktop\Git\THreading\bin\Debug\netcoreapp3.1\THreading.pdb
+C:\Users\Dell\Desktop\Git\THreading\obj\Debug\netcoreapp3.1\THreading.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Git\THreading\obj\Debug\netcoreapp3.1\THreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Git\THreading\obj\Debug\netcoreapp3.1\THreading.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Git\THreading\obj\Debug\netcoreapp3.1\THreading.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Git\THreading\obj\Debug\netcoreapp3.1\THreading.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Git\THreading\obj\Debug\netcoreapp3.1\THreading.dll
+C:\Users\Dell\Desktop\Git\THreading\obj\Debug\netcoreapp3.1\THreading.pdb
+C:\Users\Dell\Desktop\Git\THreading\obj\Debug\netcoreapp3.1\THreading.genruntimeconfig.cache
