@@ -5,7 +5,7 @@ namespace THreading
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Thread oThread = new Thread(WorkThread);
             oThread.Start();
