@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Git\Parallelism\bin\Debug\netcoreapp3.1\Parallelism.exe
+C:\Users\Dell\Desktop\Git\Parallelism\bin\Debug\netcoreapp3.1\Parallelism.deps.json
+C:\Users\Dell\Desktop\Git\Parallelism\bin\Debug\netcoreapp3.1\Parallelism.runtimeconfig.json
+C:\Users\Dell\Desktop\Git\Parallelism\bin\Debug\netcoreapp3.1\Parallelism.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Git\Parallelism\bin\Debug\netcoreapp3.1\Parallelism.dll
+C:\Users\Dell\Desktop\Git\Parallelism\bin\Debug\netcoreapp3.1\Parallelism.pdb
+C:\Users\Dell\Desktop\Git\Parallelism\obj\Debug\netcoreapp3.1\Parallelism.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Git\Parallelism\obj\Debug\netcoreapp3.1\Parallelism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Git\Parallelism\obj\Debug\netcoreapp3.1\Parallelism.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Git\Parallelism\obj\Debug\netcoreapp3.1\Parallelism.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Git\Parallelism\obj\Debug\netcoreapp3.1\Parallelism.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Git\Parallelism\obj\Debug\netcoreapp3.1\Parallelism.dll
+C:\Users\Dell\Desktop\Git\Parallelism\obj\Debug\netcoreapp3.1\Parallelism.pdb
+C:\Users\Dell\Desktop\Git\Parallelism\obj\Debug\netcoreapp3.1\Parallelism.genruntimeconfig.cache
