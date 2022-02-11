@@ -8,7 +8,7 @@ namespace Parallelism
     class DelegateEx
     {
         public delegate string Print(string name);
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             Print p = delegate (string name)
               {
