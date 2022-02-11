@@ -23,7 +23,7 @@ namespace Parallelism
         {
             Console.WriteLine("division=" + (a / b));
         }
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             MulticastDeigate m = new MulticastDeigate();
             Calculator c = new Calculator(m.add);

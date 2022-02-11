@@ -26,7 +26,7 @@ namespace Parallelism
         {
             Console.WriteLine("Division"+(a / b));
         }
-        static void Main2(string[] args)
+        static void Main3(string[] args)
         {
             Add a = new Add(DelegatesEx.Add1);
             Sub b = new Sub(DelegatesEx.Sub1);
