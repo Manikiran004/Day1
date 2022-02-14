@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Git\ProgramsPractice\obj\Debug\netcoreapp3.1\ProgramsPractice.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Git\ProgramsPractice\obj\Debug\netcoreapp3.1\ProgramsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Git\ProgramsPractice\obj\Debug\netcoreapp3.1\ProgramsPractice.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Git\ProgramsPractice\obj\Debug\netcoreapp3.1\ProgramsPractice.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Git\ProgramsPractice\obj\Debug\netcoreapp3.1\ProgramsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Git\ProgramsPractice\bin\Debug\netcoreapp3.1\ProgramsPractice.exe
+C:\Users\Dell\Desktop\Git\ProgramsPractice\bin\Debug\netcoreapp3.1\ProgramsPractice.deps.json
+C:\Users\Dell\Desktop\Git\ProgramsPractice\bin\Debug\netcoreapp3.1\ProgramsPractice.runtimeconfig.json
+C:\Users\Dell\Desktop\Git\ProgramsPractice\bin\Debug\netcoreapp3.1\ProgramsPractice.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Git\ProgramsPractice\bin\Debug\netcoreapp3.1\ProgramsPractice.dll
+C:\Users\Dell\Desktop\Git\ProgramsPractice\bin\Debug\netcoreapp3.1\ProgramsPractice.pdb
+C:\Users\Dell\Desktop\Git\ProgramsPractice\obj\Debug\netcoreapp3.1\ProgramsPractice.dll
+C:\Users\Dell\Desktop\Git\ProgramsPractice\obj\Debug\netcoreapp3.1\ProgramsPractice.pdb
+C:\Users\Dell\Desktop\Git\ProgramsPractice\obj\Debug\netcoreapp3.1\ProgramsPractice.genruntimeconfig.cache
