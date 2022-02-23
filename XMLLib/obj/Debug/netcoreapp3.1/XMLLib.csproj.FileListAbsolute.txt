@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Git\XMLLib\bin\Debug\netcoreapp3.1\XMLLib.exe
+C:\Users\Dell\Desktop\Git\XMLLib\bin\Debug\netcoreapp3.1\XMLLib.deps.json
+C:\Users\Dell\Desktop\Git\XMLLib\bin\Debug\netcoreapp3.1\XMLLib.runtimeconfig.json
+C:\Users\Dell\Desktop\Git\XMLLib\bin\Debug\netcoreapp3.1\XMLLib.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Git\XMLLib\bin\Debug\netcoreapp3.1\XMLLib.dll
+C:\Users\Dell\Desktop\Git\XMLLib\bin\Debug\netcoreapp3.1\XMLLib.pdb
+C:\Users\Dell\Desktop\Git\XMLLib\obj\Debug\netcoreapp3.1\XMLLib.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Git\XMLLib\obj\Debug\netcoreapp3.1\XMLLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Git\XMLLib\obj\Debug\netcoreapp3.1\XMLLib.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Git\XMLLib\obj\Debug\netcoreapp3.1\XMLLib.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Git\XMLLib\obj\Debug\netcoreapp3.1\XMLLib.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Git\XMLLib\obj\Debug\netcoreapp3.1\XMLLib.dll
+C:\Users\Dell\Desktop\Git\XMLLib\obj\Debug\netcoreapp3.1\XMLLib.pdb
+C:\Users\Dell\Desktop\Git\XMLLib\obj\Debug\netcoreapp3.1\XMLLib.genruntimeconfig.cache

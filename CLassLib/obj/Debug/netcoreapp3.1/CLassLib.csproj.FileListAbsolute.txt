@@ -1,0 +1,5 @@
+C:\Users\Dell\Desktop\Git\CLassLib\obj\Debug\netcoreapp3.1\CLassLib.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Git\CLassLib\obj\Debug\netcoreapp3.1\CLassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Git\CLassLib\obj\Debug\netcoreapp3.1\CLassLib.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Git\CLassLib\obj\Debug\netcoreapp3.1\CLassLib.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Git\CLassLib\obj\Debug\netcoreapp3.1\CLassLib.csproj.CoreCompileInputs.cache
